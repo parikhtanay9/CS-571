@@ -1,4 +1,4 @@
-Badger Chat
+# Badger Chat
 Badger Chat is an interactive chatroom application designed to provide users with a seamless chat experience. This project allows users to explore chatrooms, post messages, and manage their accounts efficiently.
 
 Features
