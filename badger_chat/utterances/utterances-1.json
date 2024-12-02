@@ -1,0 +1,516 @@
+{
+    "utterances": [
+        {
+            "text": "What are the 4 latest posts in Science Hall Scholars",
+            "entities": [
+                {
+                    "entity": "wit$number:number",
+                    "start": 13,
+                    "end": 14,
+                    "body": "4",
+                    "entities": []
+                },
+                {
+                    "entity": "chatrooms:chatroom",
+                    "start": 31,
+                    "end": 52,
+                    "body": "Science Hall Scholars",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "am i logged in",
+            "entities": [],
+            "traits": [],
+            "intent": "whoami"
+        },
+        {
+            "text": "can you log me out",
+            "entities": [],
+            "traits": [],
+            "intent": "logout"
+        },
+        {
+            "text": "can you log out for me",
+            "entities": [],
+            "traits": [],
+            "intent": "logout"
+        },
+        {
+            "text": "can you logout for me",
+            "entities": [],
+            "traits": [],
+            "intent": "logout"
+        },
+        {
+            "text": "chatrooms",
+            "entities": [],
+            "traits": [],
+            "intent": "get_chatrooms"
+        },
+        {
+            "text": "get me logged in",
+            "entities": [],
+            "traits": [],
+            "intent": "login"
+        },
+        {
+            "text": "get the latest message in Buckys Badger Den",
+            "entities": [
+                {
+                    "entity": "chatrooms:chatroom",
+                    "start": 26,
+                    "end": 43,
+                    "body": "Buckys Badger Den",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "get the latest post",
+            "entities": [],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "give me a list of chatrooms",
+            "entities": [],
+            "traits": [],
+            "intent": "get_chatrooms"
+        },
+        {
+            "text": "give me the 4 latest posts",
+            "entities": [
+                {
+                    "entity": "wit$number:number",
+                    "start": 12,
+                    "end": 13,
+                    "body": "4",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "help",
+            "entities": [],
+            "traits": [],
+            "intent": "get_help"
+        },
+        {
+            "text": "help me out",
+            "entities": [],
+            "traits": [],
+            "intent": "get_help"
+        },
+        {
+            "text": "i want an account",
+            "entities": [],
+            "traits": [],
+            "intent": "register"
+        },
+        {
+            "text": "log in",
+            "entities": [],
+            "traits": [],
+            "intent": "login"
+        },
+        {
+            "text": "log in for me",
+            "entities": [],
+            "traits": [],
+            "intent": "login"
+        },
+        {
+            "text": "log me in",
+            "entities": [],
+            "traits": [],
+            "intent": "login"
+        },
+        {
+            "text": "log me out",
+            "entities": [],
+            "traits": [],
+            "intent": "logout"
+        },
+        {
+            "text": "log out",
+            "entities": [],
+            "traits": [],
+            "intent": "logout"
+        },
+        {
+            "text": "login",
+            "entities": [],
+            "traits": [],
+            "intent": "login"
+        },
+        {
+            "text": "login for me",
+            "entities": [],
+            "traits": [],
+            "intent": "login"
+        },
+        {
+            "text": "logout",
+            "entities": [],
+            "traits": [],
+            "intent": "logout"
+        },
+        {
+            "text": "make a post",
+            "entities": [],
+            "traits": [],
+            "intent": "create_message"
+        },
+        {
+            "text": "make a post in Buckys Badger Den",
+            "entities": [
+                {
+                    "entity": "chatrooms:chatroom",
+                    "start": 15,
+                    "end": 32,
+                    "body": "Buckys Badger Den",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "create_message"
+        },
+        {
+            "text": "make a post in Engineering Hall Exchange",
+            "entities": [
+                {
+                    "entity": "chatrooms:chatroom",
+                    "start": 15,
+                    "end": 31,
+                    "body": "Engineering Hall",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "create_message"
+        },
+        {
+            "text": "make a post in Grainger Hall Gatherings",
+            "entities": [
+                {
+                    "entity": "chatrooms:chatroom",
+                    "start": 15,
+                    "end": 39,
+                    "body": "Grainger Hall Gatherings",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "create_message"
+        },
+        {
+            "text": "make a post in Kohl Center Kudos",
+            "entities": [
+                {
+                    "entity": "chatrooms:chatroom",
+                    "start": 15,
+                    "end": 32,
+                    "body": "Kohl Center Kudos",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "create_message"
+        },
+        {
+            "text": "make a post in Lakeshore Path Pioneers",
+            "entities": [
+                {
+                    "entity": "chatrooms:chatroom",
+                    "start": 15,
+                    "end": 38,
+                    "body": "Lakeshore Path Pioneers",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "create_message"
+        },
+        {
+            "text": "make a post in picnic point pathfinders",
+            "entities": [
+                {
+                    "entity": "chatrooms:chatroom",
+                    "start": 15,
+                    "end": 39,
+                    "body": "picnic point pathfinders",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "create_message"
+        },
+        {
+            "text": "make a post in science hall scholars",
+            "entities": [
+                {
+                    "entity": "chatrooms:chatroom",
+                    "start": 15,
+                    "end": 36,
+                    "body": "science hall scholars",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "create_message"
+        },
+        {
+            "text": "make a post in union south socials",
+            "entities": [
+                {
+                    "entity": "chatrooms:chatroom",
+                    "start": 15,
+                    "end": 34,
+                    "body": "union south socials",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "create_message"
+        },
+        {
+            "text": "messages",
+            "entities": [],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "please help",
+            "entities": [],
+            "traits": [],
+            "intent": "get_help"
+        },
+        {
+            "text": "register",
+            "entities": [],
+            "traits": [],
+            "intent": "register"
+        },
+        {
+            "text": "sign me up",
+            "entities": [],
+            "traits": [],
+            "intent": "register"
+        },
+        {
+            "text": "sign up",
+            "entities": [],
+            "traits": [],
+            "intent": "register"
+        },
+        {
+            "text": "signup",
+            "entities": [],
+            "traits": [],
+            "intent": "register"
+        },
+        {
+            "text": "what are my login details",
+            "entities": [],
+            "traits": [],
+            "intent": "whoami"
+        },
+        {
+            "text": "what are the 2 latest posts in Picnic Point Pathfinders",
+            "entities": [
+                {
+                    "entity": "wit$number:number",
+                    "start": 13,
+                    "end": 14,
+                    "body": "2",
+                    "entities": []
+                },
+                {
+                    "entity": "chatrooms:chatroom",
+                    "start": 31,
+                    "end": 55,
+                    "body": "Picnic Point Pathfinders",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "what are the 3 latest posts in Buckys Badger Den",
+            "entities": [
+                {
+                    "entity": "wit$number:number",
+                    "start": 13,
+                    "end": 14,
+                    "body": "3",
+                    "entities": []
+                },
+                {
+                    "entity": "chatrooms:chatroom",
+                    "start": 31,
+                    "end": 48,
+                    "body": "Buckys Badger Den",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "what are the 4 latest posts in Grainger Hall Gatherings",
+            "entities": [
+                {
+                    "entity": "wit$number:number",
+                    "start": 13,
+                    "end": 14,
+                    "body": "4",
+                    "entities": []
+                },
+                {
+                    "entity": "chatrooms:chatroom",
+                    "start": 31,
+                    "end": 55,
+                    "body": "Grainger Hall Gatherings",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "what are the 4 latest posts in Kohl Center Kudos",
+            "entities": [
+                {
+                    "entity": "wit$number:number",
+                    "start": 13,
+                    "end": 14,
+                    "body": "4",
+                    "entities": []
+                },
+                {
+                    "entity": "chatrooms:chatroom",
+                    "start": 31,
+                    "end": 48,
+                    "body": "Kohl Center Kudos",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "what are the 4 latest posts in Lakeshore Path Pioneers",
+            "entities": [
+                {
+                    "entity": "wit$number:number",
+                    "start": 13,
+                    "end": 14,
+                    "body": "4",
+                    "entities": []
+                },
+                {
+                    "entity": "chatrooms:chatroom",
+                    "start": 31,
+                    "end": 54,
+                    "body": "Lakeshore Path Pioneers",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "what are the 4 latest posts in Union South Socials",
+            "entities": [
+                {
+                    "entity": "chatrooms:chatroom",
+                    "start": 31,
+                    "end": 50,
+                    "body": "Union South Socials",
+                    "entities": []
+                },
+                {
+                    "entity": "wit$number:number",
+                    "start": 13,
+                    "end": 14,
+                    "body": "4",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "what are the 5 latest posts in Engineering Hall Exchange",
+            "entities": [
+                {
+                    "entity": "wit$number:number",
+                    "start": 13,
+                    "end": 14,
+                    "body": "5",
+                    "entities": []
+                },
+                {
+                    "entity": "chatrooms:chatroom",
+                    "start": 31,
+                    "end": 56,
+                    "body": "Engineering Hall Exchange",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "what chatrooms are available",
+            "entities": [],
+            "traits": [],
+            "intent": "get_chatrooms"
+        },
+        {
+            "text": "what chatrooms are there",
+            "entities": [],
+            "traits": [],
+            "intent": "get_chatrooms"
+        },
+        {
+            "text": "what chatrooms can i use",
+            "entities": [],
+            "traits": [],
+            "intent": "get_chatrooms"
+        },
+        {
+            "text": "what is my login details",
+            "entities": [],
+            "traits": [],
+            "intent": "whoami"
+        },
+        {
+            "text": "who am I logged in as",
+            "entities": [],
+            "traits": [],
+            "intent": "whoami"
+        },
+        {
+            "text": "who am i",
+            "entities": [],
+            "traits": [],
+            "intent": "whoami"
+        },
+        {
+            "text": "who am i registered as",
+            "entities": [],
+            "traits": [],
+            "intent": "whoami"
+        }
+    ]
+}

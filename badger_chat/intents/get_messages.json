@@ -1,0 +1,7 @@
+{
+    "name": "get_messages",
+    "entities": [
+        "chatrooms:chatroom",
+        "wit$number:number"
+    ]
+}

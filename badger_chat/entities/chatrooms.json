@@ -1,0 +1,68 @@
+{
+    "name": "chatrooms",
+    "roles": [
+        "chatroom"
+    ],
+    "lookups": [
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "Buckys Badger Den",
+            "synonyms": [
+                "buckys badger den"
+            ]
+        },
+        {
+            "keyword": "Engineering Hall Exchange",
+            "synonyms": [
+                "engineering",
+                "engineering hall",
+                "engineering hall exchange"
+            ]
+        },
+        {
+            "keyword": "Grainger Hall Gatherings",
+            "synonyms": [
+                "grainger",
+                "grainger hall",
+                "grainger hall gatherings"
+            ]
+        },
+        {
+            "keyword": "Kohl Center Kudos",
+            "synonyms": [
+                "kohl center",
+                "kohl center kudos"
+            ]
+        },
+        {
+            "keyword": "Lakeshore Path Pioneers",
+            "synonyms": [
+                "lakeshore path",
+                "lakeshore path pioneers"
+            ]
+        },
+        {
+            "keyword": "Picnic Point Pathfinders",
+            "synonyms": [
+                "picnic point",
+                "picnic point pathfinders"
+            ]
+        },
+        {
+            "keyword": "Science Hall Scholars",
+            "synonyms": [
+                "science hall",
+                "science hall scholars"
+            ]
+        },
+        {
+            "keyword": "Union South Socials",
+            "synonyms": [
+                "union south",
+                "union south socials"
+            ]
+        }
+    ]
+}
